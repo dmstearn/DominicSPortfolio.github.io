@@ -38,7 +38,7 @@ header mainHeader ul{
 header mainHeader ul li {
 	float: left;
 }
-headermainHeader ul li a {
+headermain Header ul li a {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:20px;
 	color: #000;
@@ -46,14 +46,14 @@ headermainHeader ul li a {
 	border-right: 1px solid black;
 	text-decoration: none;
 }
-headermainHeader ul li a.last{
+headermain Header ul li a.last{
 	border:none;
 }
-headermainHeader ul li a:hover{
+headermain Header ul li a:hover{
 	color: #c00000;
 }
 
-sectioncontent {
+section content {
 	float: left;
 	width: 600px;
 	padding: 0 10px 0 25px;
@@ -61,26 +61,26 @@ sectioncontent {
 	border-right: 1px solid #7f7f7f;
 }
 
-sectioncontent p {
+section content p {
 	color: #666;
 	line-height: 1.6;
 	margin-bottom: 10px;
 }
 
-asidehobbies {
+aside hobbies {
 	font-size: 90%;
 	float: right;
 	width: 450px;
 	margin-bottom: 20px;
 }
 
-footerpageFooter {
+footer pageFooter {
 	clear: both;
 	border-top: 2px solid #7f7f7f;
 	padding: 20px;
 }
 
-footerpageFooter p {
+footer pageFooter p {
 	text-align: center;
 	font-style: italic;
 	margin-bottom: 10px;
