@@ -20,7 +20,7 @@ wrapper {
 	text-align: left;
 	position: relative;
 }
-header mainHeader {
+headermainHeader {
 	height: 185px;
 	background: url(images/logo.png) no-repeat 25px center;
 	padding: 0 75px 0 300px;
@@ -28,17 +28,17 @@ header mainHeader {
 	border-bottom: 2px solid #7f7f7f;
 	margin-bottom:16px;
 }
-header mainHeader div{
+headermainHeader div{
 	margin-top: 16px;
 }
-header mainHeader ul{
+headermainHeader ul{
 	list-style: none;
 	float: left;
 }
-header mainHeader ul li {
+headermainHeader ul li {
 	float: left;
 }
-headermain Header ul li a {
+headermainHeader ul li a {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:20px;
 	color: #000;
@@ -46,14 +46,14 @@ headermain Header ul li a {
 	border-right: 1px solid black;
 	text-decoration: none;
 }
-headermain Header ul li a.last{
+headermainHeader ul li a.last{
 	border:none;
 }
-headermain Header ul li a:hover{
+headermainHeader ul li a:hover{
 	color: #c00000;
 }
 
-section content {
+sectioncontent {
 	float: left;
 	width: 600px;
 	padding: 0 10px 0 25px;
@@ -61,13 +61,13 @@ section content {
 	border-right: 1px solid #7f7f7f;
 }
 
-section content p {
+sectioncontent p {
 	color: #666;
 	line-height: 1.6;
 	margin-bottom: 10px;
 }
 
-aside hobbies {
+asidehobbies {
 	font-size: 90%;
 	float: right;
 	width: 450px;
